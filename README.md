@@ -49,7 +49,7 @@
 </head>
 <body>
     <h1>Halloween Party</h1>
-    <img src="IMG_7400.jpeg" alt="Floating Cat" class="floating-image">
+    <img src="https://github.com/YessinAattache/Halloweenparty/blob/main/IMG_7400.JPG" alt="Floating Cat" class="floating-image">
     <a id="rsvp-button" href="https://docs.google.com/forms/d/e/1FAIpQLScFB9FSckUz2MF5YOpCQ2S9gHQMfTimJs7QKGtBaGeWCZArJQ/viewform?usp=sf_link" target="_blank">RSVP Here</a>
 
     <script>
