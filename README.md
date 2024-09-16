@@ -22,7 +22,7 @@
         .floating-image {
             position: absolute;
             animation: float 10s infinite;
-            width: 200px; /* Adjust the size of the image */
+            width: 300px; /* Adjust the size of the image */
         }
         @keyframes float {
             0% { transform: translate(0, 0); }
